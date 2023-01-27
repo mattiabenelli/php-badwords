@@ -1,6 +1,6 @@
 <?php 
-    $paragraph = $_GET['paragraph']
-    $password = $_GET['password']
+    $paragraph = $_POST['paragraph'];
+    $password = $_POST['password'];
 ?>
 <!DOCTYPE html>
 <html lang="en">

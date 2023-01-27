@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="./badWord.php" method="GET">
+    <form action="./badWord.php" method="POST">
         <input type="text" name="paragraph" id="paragraph" placeholder="paragraph">
         <input type="text" name="password" id="password" placeholder="password">
         <button type="submit">Invia</button>
